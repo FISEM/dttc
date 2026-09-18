@@ -25,6 +25,14 @@ Code is always the final step.
 
 ---
 
+## Example
+
+[**DTTC end to end — Python**](examples/python.md) — one small feature built
+through all four steps, one test at a time, including a change that demonstrates
+the adjustment hierarchy.
+
+---
+
 ## Core Principle
 
 > Code is a consequence.  
